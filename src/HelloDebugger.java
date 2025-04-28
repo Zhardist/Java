@@ -8,5 +8,6 @@ public class HelloDebugger {
 
         //print the result
         System.out.println(a+"*"+b+"="+product);
+        System.err.println("OWO");
     }
 }
